@@ -1,28 +1,12 @@
-# To-Do-app
-A simple and efficient Todo Application built using React.
-This project helps users add, delete, and manage daily tasks with a clean UI.
-It is perfect for beginners learning React fundamentals such as components, state management, props, and event handling.
+# React + Vite
 
-🚀 Features
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-➕ Add new tasks
+Currently, two official plugins are available:
 
-✔️ Mark tasks as completed
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-❌ Delete tasks
+## Expanding the ESLint configuration
 
-🎨 Clean and responsive UI
-
-⚛️ Built using React functional components + hooks
-
-🛠️ Tech Stack
-
-React
-
-JavaScript (ES6+)
-
-CSS
-
-Vite / Create React App 
-
-Tailwind css for intractivity
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
